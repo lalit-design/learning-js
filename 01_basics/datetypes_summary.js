@@ -18,4 +18,11 @@ console.log(typeof myFunction);
 
 //both array , object are of object type
 //function is of type function  
+// stack (primitive),heap(non-primitive)
+
+let myYoutubename = "hiteshchoudharycom"
+let anothername = myYoutubename
+anothername = "chaiaurcode"
+console.log(myYoutubename);
+console.log(anothername);
 
